@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @DhananjayDewangan
-- 📖 I am a Certified Google Data Analytics Professional.
-- 💼 I am currently looking for Data Analyst Job.
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Masters
-- 💞️ I’m looking to collaborate on Data Analyst Projects
+- 👋 Name's @DhananjayDewangan.
+- 📖 Rocking the title of Certified Google Data Analytics Professional.
+- 💼 Currently on the prowl for a Data Analyst gig – yeah, job hunting mode.
+- 👀 Big fan of all things Data Science – that's my jam.
+- 🌱 Juggling a Data Science Masters to up my skills – learning never stops.
+- 💞️ Totally down to team up on any Data Analyst Projects – hit me up!
 - 📫 How to reach me ...Here is my LinkedIn profile - https://www.linkedin.com/in/dhananjay-dewangan-236796268/
 
 <!---
